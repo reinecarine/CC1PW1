@@ -1,0 +1,26 @@
+.page{
+    padding: 25px 20px;
+    font-family: helvetica;
+}
+.head{
+padding-bottom: 30px;
+}
+h1{
+    font-size: 27px;
+    margin: 0;
+    padding-top:170PX ;
+}
+.content-button{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    border:1px solid darkgrey ;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    padding: 0px 15px;
+}
+h4{
+    margin-top: o;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
